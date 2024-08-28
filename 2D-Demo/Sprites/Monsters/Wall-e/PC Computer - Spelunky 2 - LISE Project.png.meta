@@ -1,0 +1,4540 @@
+fileFormatVersion: 2
+guid: 03ba82836764e48f6a3a9ed27ff1a157
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1927
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f933831423434a80afef85b7cd9f039
+      internalID: 1598953875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1927
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f173dc4d90fb84117bbc008af9d5c47f
+      internalID: 1424528318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1926
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c3e4282aace4fe09115fbfaf79f47a
+      internalID: 648887330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1925
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b084263d8d4e4b9da00d27f81320d
+      internalID: 1407525303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1926
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67186343acf6142ac84ea3c1e5eb97cb
+      internalID: 774748246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1926
+        width: 90
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9019985b85e34578b3583bda7110c20
+      internalID: 12461104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1926
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68c2c031ca8a479094db1a710e45206
+      internalID: 552316606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1926
+        width: 90
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be40cf0502e490baac1d59ec3889dc
+      internalID: -1451953192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1925
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0372a68eb004e34a3f877de2a35a6a
+      internalID: 1762279839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_9
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1925
+        width: 103
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dba1e66bc4ac493c984e601dbf8f980
+      internalID: -1021184975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_10
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1924
+        width: 91
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512a90b5f3064536a73e48a850e5e22
+      internalID: -1328369363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_11
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1927
+        width: 90
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab25eeaee744e31be86a9ada2214f0
+      internalID: -506187138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_12
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1927
+        width: 94
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36763f412a5834f6b9df2a81731273f6
+      internalID: -704932987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_13
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1921
+        width: 91
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4cf47bd1b844825a5f1e4593830170
+      internalID: 1262550370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_14
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1927
+        width: 90
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd366d87a0b04029ae730774d93e2d7
+      internalID: 1581711166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_15
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1927
+        width: 90
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb913e7d74bcc44ad8e70eb18cbbc170
+      internalID: 1513788712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1798
+        width: 90
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddf3157344cc41d890fae61ba5d009d
+      internalID: 1941596781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1798
+        width: 105
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cb7a0d5019d4bb8b4d6f79a8bbfa60
+      internalID: 1407582758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1797
+        width: 103
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b7140df39f4d46b380ac31680ab62
+      internalID: -622281214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1798
+        width: 105
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8494a907bc5497c983f1427e64e693
+      internalID: -410163049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1798
+        width: 90
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6941e987b87f41a4b310b28c26be7b0
+      internalID: -1837895824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_21
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1797
+        width: 112
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f146d778a4af4a9582d4e0b6a3c5e27
+      internalID: -932812993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_22
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1798
+        width: 106
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6714438fd7a84b8aaa6b8eda9243503
+      internalID: 288233854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_23
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1797
+        width: 103
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d7b28832fa4c20be6acfb6523ed40
+      internalID: 426776601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_24
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1797
+        width: 103
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f46376ce22df437286533bf14f33052
+      internalID: -1525365200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_25
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1798
+        width: 107
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0809a63c001d4f9cac62424c0d4ee4e
+      internalID: 1011912677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_26
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1798
+        width: 113
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e1bb412f30b48e8a26ea01f72c242c
+      internalID: 1284234164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_27
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1797
+        width: 114
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be785b0422abe450b98f803eaa76f727
+      internalID: -2135713568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1664
+        width: 114
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c98794e59134bf982d1bc985c97a57
+      internalID: -1280727300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1670
+        width: 95
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515da5661992441188202ac61174a069
+      internalID: 2083668985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1680
+        width: 113
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4efccbec3bf488dbf0d4dad14c53e8
+      internalID: 388154717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1684
+        width: 119
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6dd8b4f30b044618fec243b85bcf57
+      internalID: 256330921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1670
+        width: 92
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab09e57a334749098554479640a1628
+      internalID: 57970610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1669
+        width: 125
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3609904564494439282fcb599abb37dd
+      internalID: -1248721750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1668
+        width: 90
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c954214b93049ef896535af84b3ddf
+      internalID: 1488344618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_35
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1666
+        width: 98
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a3a3f9300f41738773629577375c8
+      internalID: -1529893758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_36
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1663
+        width: 102
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c98750452c24bcd8539ef11c943970
+      internalID: -85847052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_37
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1663
+        width: 111
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f4f359ddd7488a9946115e498c727
+      internalID: -1458670337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_38
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1663
+        width: 97
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c89c6160ef4a538eeeee1404ed512
+      internalID: 1589008776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_39
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1670
+        width: 90
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1017977ada94670ba40ad0c003b3cb
+      internalID: -911613588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_40
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1286
+        width: 394
+        height: 499
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc321f46f52f4414af1756bebd9a45b
+      internalID: 968408301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1543
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ae872cdef1425c9b48b694ab7e02e
+      internalID: 1757962562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1543
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a84b5aebb39b486da0982fc7f4042cc
+      internalID: 1087356698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_43
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1543
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111dec1b4b1147b6a50ac15590ea542
+      internalID: 700931269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1543
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aae78a50d1b43488b9e1b937834741
+      internalID: -173553136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_45
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1543
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc6e853f47c42629f796bd5a8d018b
+      internalID: -368747522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_46
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1543
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b55b7410ab04b2bb91f790e0866316
+      internalID: 1972412145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_47
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1543
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf4974dd8e84950b6c4bc78ab73fe0
+      internalID: -1974697472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_48
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1543
+        width: 90
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4243a91fbaecc455a9cf888ea7429aa7
+      internalID: -1492085841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_49
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1539
+        width: 103
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cdf4686a917430bb8abf53ba8b22f4
+      internalID: -449601164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_50
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1537
+        width: 103
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4e31646c58443a866b00133fa1999
+      internalID: 438210911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_51
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1533
+        width: 103
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061f80eb6461485880503576cb91c5d
+      internalID: -1922268926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_52
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1533
+        width: 103
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dba9ee36ac9a4513bc0d3214689e662
+      internalID: -719326986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1414
+        width: 92
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c899e7a691a2430ca1edfddf9d83b6a
+      internalID: -637307237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1414
+        width: 99
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073bc2910c31642499db53d066166cba
+      internalID: -1021722125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1414
+        width: 103
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9fd24d3689a42a7ad97994a232fe01
+      internalID: 1652067530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_56
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1414
+        width: 92
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1824cdf51ff4e23a335b796a343e9d
+      internalID: 113343371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_57
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1413
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a507058325044b7a8fef3179451ef28
+      internalID: 1530047566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_58
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1413
+        width: 92
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9dd2118e0345c3a8776157d6a42fd
+      internalID: -433630823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_59
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1414
+        width: 93
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020e47b5b289436cb06dc6af0a41d81
+      internalID: -21184728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_60
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1413
+        width: 95
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0389cf3cab44c488495523694d2a3b09
+      internalID: 374937354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_61
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1413
+        width: 93
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8462463dca7a04825a0961fb0aab0a76
+      internalID: -730967427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_62
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1414
+        width: 98
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c629e6d50b0d84f999e24119377d0d81
+      internalID: -1068631054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_63
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1415
+        width: 91
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2f9eddc18247fa83521d8b5bb19ec
+      internalID: -449737581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b79fea932b24faa8e268542d563be4
+      internalID: 2051924482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d07c710d8b4e10a8f3c1eaefcb44d
+      internalID: 697097831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_66
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb969918ae78043ca9611256129e0679
+      internalID: 2083429125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b919861cf09d4298a19a13a576eae6a
+      internalID: -2112868161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_68
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc67b4e44aaf4ac88efe21caa8fc353
+      internalID: -1056691304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_69
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868b8a9ee0c4745759085abbdf6082aa
+      internalID: -744905694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_70
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab8b65d10a2e45c1bbdd8acae7ff56f
+      internalID: -695695825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_71
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ec6683eb3745f8ba688314c526fa2
+      internalID: -692720668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_72
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff567f239fd4115936854921ab5a6d
+      internalID: 1819365531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_73
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11820b8b8e2407d8ff1cb938612651
+      internalID: 1516236471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_74
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee992a9c3cfe4a28ae66b75552c94a3
+      internalID: 1396807925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_75
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1284
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9554c5e3d40435fb258a63adcaa742
+      internalID: 817617764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1157
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d5d9a7af2e0453f813a55aa88db732
+      internalID: -1850060994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_77
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1157
+        width: 91
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d97af3c7a1742bdb19514aea0fa1cf
+      internalID: -258575722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_78
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1157
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16da2a7ce2c8f4d0d91407cca34eb744
+      internalID: 26866696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_79
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1157
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf178bf2a232426e8b32307370b6c07
+      internalID: 1723567458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_80
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1157
+        width: 91
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091a6d67d69e04e4f865c4a3370c8f44
+      internalID: 1019672429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_81
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1158
+        width: 90
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a992ff008747c99b6e68b11ae1952
+      internalID: 1380933345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_82
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1159
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72047084e8e154e45b4abfbd9d6764f2
+      internalID: 1246621869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_83
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1158
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc401e1463d94135b6f66a08aa1138d
+      internalID: 1769573298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_84
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1157
+        width: 92
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa34c4fa65fa4acaa3364eadad4a877
+      internalID: 1194532788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_85
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1158
+        width: 93
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7b917b94874995bf83fce72a5de91
+      internalID: 1988270243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_86
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1158
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caea52e19a4c4e58a45c18562a49c83
+      internalID: -1529601800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_87
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1157
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cab92964ce743519ebed5184ec6a22
+      internalID: 881769486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1026
+        width: 90
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04258df6ae6f54362b21ac51114cb659
+      internalID: -419161919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_89
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1132
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee27b59378345198f75d5774add886
+      internalID: 10294022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_90
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1026
+        width: 90
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9aa2ff203764c11be1307f1f197cb3
+      internalID: -1150248648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_91
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1026
+        width: 90
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7945d81d8bb974345b04c74c6c8563fa
+      internalID: 1798812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_92
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1132
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d0973ef65284a469456b87efde4efd
+      internalID: 1287776062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_93
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1026
+        width: 90
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d6db748d034978923afc11c52f01d
+      internalID: -591507795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_94
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1035
+        width: 90
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b26d3ff20f31436dbb107b50962c95b
+      internalID: -226187426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_95
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1035
+        width: 90
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981182cb14c444e48a1c27ff86ff6816
+      internalID: 640427508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_96
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1026
+        width: 93
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739b3907b075045269f55363d4fdbb0f
+      internalID: 2103557523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_97
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1026
+        width: 97
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f5807fde3d44155b562c6af2d47c4b
+      internalID: -1125287201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1026
+        width: 91
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e86854dd67ea4607ad6628c47f7e659
+      internalID: -1400798449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_99
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1026
+        width: 93
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38e68c37d5a4ba9a620a048624e5ac
+      internalID: -286851838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_100
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1026
+        width: 97
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2ced0a6c69465ba1cdf28b7472689
+      internalID: -336267240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_101
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1026
+        width: 91
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac50de94c15f4c628de2c60e125af23
+      internalID: 1110322954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_102
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1115
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966850cba1b7d49299e6519b5fb0c22b
+      internalID: 473702183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_103
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1115
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfca679c193f4be1bb62fc8b4c847fe
+      internalID: -1085303176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_104
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1027
+        width: 104
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dbd8ea507e244d0ad6e8990f7b1a3d
+      internalID: -1400719103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_105
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1024
+        width: 109
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1202653e16d479eb8210c197b4ac1a
+      internalID: -81467653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_106
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1027
+        width: 104
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d52db7c556242ecb430c7347d13da2
+      internalID: -41403089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_107
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 902
+        width: 106
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd49a747d2c841f5880c675fcb96f17
+      internalID: -525636762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_108
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1013
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420ed16dba5b3407c8b4f7cf9e08ff53
+      internalID: -669354726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_109
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 907
+        width: 106
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3081411f35a734cb9a969f7fc4557f07
+      internalID: -405012571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_110
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1014
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b739c17ccdaa34d3faf8df25a6397b13
+      internalID: 897521250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_111
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 902
+        width: 107
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80242bd58ca746539e3dd4018afcc82
+      internalID: -1845684823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 978
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a1b699e9cf4bb5a9dbd9dc29df341
+      internalID: 29199025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_113
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 902
+        width: 110
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c4d7fb94854454d82632cc9e56c2ea
+      internalID: -1947224758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_114
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 902
+        width: 105
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7b9219f37c24479bb760d2f2daceae
+      internalID: 1013246621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_115
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 902
+        width: 105
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df66a58322ae45048df26df19ad1f35
+      internalID: -296369880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_116
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 978
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652399b37c56046dfb306de2d9cb86dc
+      internalID: -141434065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_117
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 902
+        width: 110
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d486dad7eb98487b93af2465f66bf27
+      internalID: -1042688483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_118
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 902
+        width: 107
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbab21bdaaa2409189403d539714e3a
+      internalID: 1227897355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_119
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 907
+        width: 90
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae05199e75647c1a272ba8f6fa4e21
+      internalID: 1116353114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_120
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 903
+        width: 102
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fda193d026df4cc3aa632fa5607e76f
+      internalID: -1035387655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_121
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 979
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e5f4cd3e934773a37f65aa5421a3c
+      internalID: -19280536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_122
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 907
+        width: 110
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef36a70c98244c9b8a1cf3c6ca574eb
+      internalID: -822925908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_123
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 903
+        width: 105
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bcadee7732947e5bc46531c6ba9369
+      internalID: 1333312826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_124
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 903
+        width: 105
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6618aea70f8dd4df78adbff346ba3b72
+      internalID: -504088791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_125
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 903
+        width: 105
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91379dee408d64d5e821b7f2707aa3a4
+      internalID: 1577718624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_126
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 903
+        width: 103
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40db6ea021e54fb198ce74d3f7e2c65
+      internalID: -1399180551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 773
+        width: 90
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939fc582805db494aaf75a4bdd7a7b94
+      internalID: -224963302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_128
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 770
+        width: 90
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f491c334e7124fdf9092a9c626b4b5f
+      internalID: 404617785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_129
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 771
+        width: 102
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c66bcf293f14b9bbc2e977c738b7d6
+      internalID: -1458829679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_130
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 770
+        width: 90
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195b931406f94147918609f1a6638be
+      internalID: -196477046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_131
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 771
+        width: 91
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce74f96d42cfa4caba6a522ff336e559
+      internalID: 1621125000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_132
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 770
+        width: 90
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144f85aa3e68042699aa7404ac111853
+      internalID: 274628041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_133
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 769
+        width: 90
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f03c1835c7e4d08aac0964bb2f8152
+      internalID: 948113918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_134
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 767
+        width: 90
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aed42d068c04b97a657e9e70b79908
+      internalID: 1729217849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_135
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 771
+        width: 91
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c0ed33e50043159e623b4c546d2cf
+      internalID: 1429462515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_136
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 770
+        width: 90
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8884ce05c1f4bfa9acdaf6a1a777b2
+      internalID: -180250996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_137
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 769
+        width: 90
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59fc56744457429ab69403c559fd023
+      internalID: -1189574446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_138
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 768
+        width: 90
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09129bf18452e4f269d994d80ff47212
+      internalID: -471611610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_139
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 767
+        width: 103
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d912aebe0c0e4c3cac1833c498e3b23
+      internalID: 458258444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_140
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 768
+        width: 44
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d54057d0b54579940a17a2128dc98
+      internalID: -1335661212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_141
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 766
+        width: 44
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23409f5ff025e44d7a979ba4240048fd
+      internalID: -111824660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_142
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 766
+        width: 44
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915ce3f6b60b493aa1af401b767cc1d
+      internalID: 1799854401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_143
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 645
+        width: 110
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6a78633fb14eb5817395fcd604ccc
+      internalID: -1295378340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_144
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 643
+        width: 110
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f800152b8a64369a90c15a5b9c3d86
+      internalID: 611829390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_145
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 642
+        width: 110
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eec94fd5507f423c9231861ef4b48a7
+      internalID: -181404445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_146
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 643
+        width: 110
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625703930f66f4c0a9aa5475a4648379
+      internalID: 92144166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_147
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 643
+        width: 110
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d856667979940909d60869660126c3
+      internalID: 1124410724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_148
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 643
+        width: 110
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e71e84782a4cf48aba2a19c48dd0e
+      internalID: -1098494477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_149
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 643
+        width: 110
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a429536e3141422283b274c0c08f4e8
+      internalID: 1557586848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_150
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 643
+        width: 110
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8988c080c1f4164994b8c9179ad339
+      internalID: 2122994345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_151
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 643
+        width: 110
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83bd757bcb504e22a90da722dcdd32f
+      internalID: -18533511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_152
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 643
+        width: 110
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8751c70fcff6148d7b1b7fd1024048f6
+      internalID: 149089895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_153
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 643
+        width: 111
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e88e147608e4aa8a4f96f83024cb6a
+      internalID: 352021720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_154
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 643
+        width: 112
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de732d2516ab40e098e59ac1bc34987
+      internalID: 136132047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_155
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 643
+        width: 115
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d74c831a8a46e2b43a13189dab0e9
+      internalID: -713197354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_156
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 642
+        width: 118
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df19664e12e1e4cb58cb469dd2479180
+      internalID: 1912995924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_157
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 643
+        width: 115
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6685d64883224a66868cfd954cf7e34
+      internalID: 60642385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_158
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 643
+        width: 112
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f8de247395c4dd89a369972614c002
+      internalID: -1606063875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 531
+        width: 99
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a491679d8f871435ca00bca3035ad4c7
+      internalID: 1545279734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_160
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 517
+        width: 97
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e545c6f1bfee45188697d799bbd361d
+      internalID: -626876442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_161
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 499
+        width: 118
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6708ec12eed24479a5c623d8a722442
+      internalID: -1656617535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_162
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 526
+        width: 72
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496e8d1832b6434eaecdb32accde282
+      internalID: -349842543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_163
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 383
+        width: 90
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d143f22afd064d19b8fa891f0204cd6
+      internalID: -1102500833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_164
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 384
+        width: 90
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9954695285c3748aa8eadea10f793b1c
+      internalID: -1557439065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_165
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 384
+        width: 90
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a5b6e92fc54077b87248ba633fb2f
+      internalID: -2044357769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_166
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 412
+        width: 90
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a3c0d3b9ba24eb9ab069b2776cf1f4
+      internalID: -1288008480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_167
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 440
+        width: 90
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29db14e7fb1419d86baebd2e83de13
+      internalID: 923481439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_168
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 466
+        width: 90
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4245a4d6194b838fe42cf52c850d3
+      internalID: 1196992360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_169
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 517
+        width: 110
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8bece732b64fb98195a4c4d2f08ef
+      internalID: -120957912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_170
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 384
+        width: 26
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbfad9c96fb84431b1a18139ac77650
+      internalID: -1719952521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_171
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 433
+        width: 68
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07c054aaae04c3d841b8ae74bec37c
+      internalID: -1482774508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_172
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 417
+        width: 70
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88babd03e376d4681b13c6d7a98cc22b
+      internalID: 1391434937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_173
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 401
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e93beaa02936493191558de03034a15
+      internalID: -291962170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_174
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 393
+        width: 113
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5315a942fdfc3426ba779e2162cf5820
+      internalID: -2046251201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_175
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 417
+        width: 117
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffd1b3cff12d46ceaedf4816194ef0f
+      internalID: 1014289105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_176
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 429
+        width: 119
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e61690111c7488daec1437d1b40112
+      internalID: -1603784941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_177
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 404
+        width: 83
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235aeaf3088c24cc2b0d5322db9ebd98
+      internalID: -1447445811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_178
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 439
+        width: 121
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b10c835ca42b4c7f937a4adc00245b3
+      internalID: -964996431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_179
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 439
+        width: 123
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368231b195c444e9d9f5dbdd4b28fef1
+      internalID: -2087158997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_180
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 295
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610a87d6bb31495cada389bb6ca181e
+      internalID: -729026525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_181
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 295
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd20c43d85a244a8bb2b5621fb26eec
+      internalID: 1110945692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_182
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 294
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb22444c06574604b330758afbace8f
+      internalID: -90176889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_183
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d32f0fe1e64737bbe0a7c64aac462
+      internalID: -1668185724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_184
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 295
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c136aafe897e949bdb705dd0bd7600ed
+      internalID: 1397312350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_185
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 295
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d29386406e954f0484b8e8cbba321a3
+      internalID: -1760207689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_186
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 295
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c6e87ad7fa8438789c432cb8bcfa0a
+      internalID: -2108452502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_187
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 295
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30461b08ee09f46759e6e773f2db3c06
+      internalID: -573178353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_188
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 295
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9748d803e4994b41baa7b7bd84dbea2
+      internalID: -2121555712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_189
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 295
+        width: 51
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba82b225ec23d42be9a6c7e423de3f4c
+      internalID: -1574860187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_190
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f58d018c510488386f5dfa85771525
+      internalID: 295840048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_191
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 295
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d30142db1d47778df83ef1cdbd5ff
+      internalID: -1043082820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_192
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 135
+        width: 92
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9dde00d0bb643dc896414270242d99
+      internalID: -973778927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_193
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 135
+        width: 97
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac0bce60a294b12807946a8bcad984
+      internalID: 1127230582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_194
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 135
+        width: 99
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39f02aa6f6714f2491aa7b3b32c865b
+      internalID: -435217622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_195
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 135
+        width: 98
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed61377c037b5434e9cad0307121ecbc
+      internalID: -294132233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_196
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 135
+        width: 93
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fde37b35646449c4a0c59c76a682604
+      internalID: 412153968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_197
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 135
+        width: 98
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee08d8ca45b84c959b9ef6f8d4f5468
+      internalID: -440718258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_198
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 135
+        width: 97
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a63a396938a1470d86819ff48cc5d42
+      internalID: 1336286319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky 2 - LISE Project_199
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 135
+        width: 92
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99c987647e6649798b4cb46d00b9b2e
+      internalID: 2126340103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Spelunky 2 - LISE Project_0: 1598953875
+      PC Computer - Spelunky 2 - LISE Project_1: 1424528318
+      PC Computer - Spelunky 2 - LISE Project_10: -1328369363
+      PC Computer - Spelunky 2 - LISE Project_100: -336267240
+      PC Computer - Spelunky 2 - LISE Project_101: 1110322954
+      PC Computer - Spelunky 2 - LISE Project_102: 473702183
+      PC Computer - Spelunky 2 - LISE Project_103: -1085303176
+      PC Computer - Spelunky 2 - LISE Project_104: -1400719103
+      PC Computer - Spelunky 2 - LISE Project_105: -81467653
+      PC Computer - Spelunky 2 - LISE Project_106: -41403089
+      PC Computer - Spelunky 2 - LISE Project_107: -525636762
+      PC Computer - Spelunky 2 - LISE Project_108: -669354726
+      PC Computer - Spelunky 2 - LISE Project_109: -405012571
+      PC Computer - Spelunky 2 - LISE Project_11: -506187138
+      PC Computer - Spelunky 2 - LISE Project_110: 897521250
+      PC Computer - Spelunky 2 - LISE Project_111: -1845684823
+      PC Computer - Spelunky 2 - LISE Project_112: 29199025
+      PC Computer - Spelunky 2 - LISE Project_113: -1947224758
+      PC Computer - Spelunky 2 - LISE Project_114: 1013246621
+      PC Computer - Spelunky 2 - LISE Project_115: -296369880
+      PC Computer - Spelunky 2 - LISE Project_116: -141434065
+      PC Computer - Spelunky 2 - LISE Project_117: -1042688483
+      PC Computer - Spelunky 2 - LISE Project_118: 1227897355
+      PC Computer - Spelunky 2 - LISE Project_119: 1116353114
+      PC Computer - Spelunky 2 - LISE Project_12: -704932987
+      PC Computer - Spelunky 2 - LISE Project_120: -1035387655
+      PC Computer - Spelunky 2 - LISE Project_121: -19280536
+      PC Computer - Spelunky 2 - LISE Project_122: -822925908
+      PC Computer - Spelunky 2 - LISE Project_123: 1333312826
+      PC Computer - Spelunky 2 - LISE Project_124: -504088791
+      PC Computer - Spelunky 2 - LISE Project_125: 1577718624
+      PC Computer - Spelunky 2 - LISE Project_126: -1399180551
+      PC Computer - Spelunky 2 - LISE Project_127: -224963302
+      PC Computer - Spelunky 2 - LISE Project_128: 404617785
+      PC Computer - Spelunky 2 - LISE Project_129: -1458829679
+      PC Computer - Spelunky 2 - LISE Project_13: 1262550370
+      PC Computer - Spelunky 2 - LISE Project_130: -196477046
+      PC Computer - Spelunky 2 - LISE Project_131: 1621125000
+      PC Computer - Spelunky 2 - LISE Project_132: 274628041
+      PC Computer - Spelunky 2 - LISE Project_133: 948113918
+      PC Computer - Spelunky 2 - LISE Project_134: 1729217849
+      PC Computer - Spelunky 2 - LISE Project_135: 1429462515
+      PC Computer - Spelunky 2 - LISE Project_136: -180250996
+      PC Computer - Spelunky 2 - LISE Project_137: -1189574446
+      PC Computer - Spelunky 2 - LISE Project_138: -471611610
+      PC Computer - Spelunky 2 - LISE Project_139: 458258444
+      PC Computer - Spelunky 2 - LISE Project_14: 1581711166
+      PC Computer - Spelunky 2 - LISE Project_140: -1335661212
+      PC Computer - Spelunky 2 - LISE Project_141: -111824660
+      PC Computer - Spelunky 2 - LISE Project_142: 1799854401
+      PC Computer - Spelunky 2 - LISE Project_143: -1295378340
+      PC Computer - Spelunky 2 - LISE Project_144: 611829390
+      PC Computer - Spelunky 2 - LISE Project_145: -181404445
+      PC Computer - Spelunky 2 - LISE Project_146: 92144166
+      PC Computer - Spelunky 2 - LISE Project_147: 1124410724
+      PC Computer - Spelunky 2 - LISE Project_148: -1098494477
+      PC Computer - Spelunky 2 - LISE Project_149: 1557586848
+      PC Computer - Spelunky 2 - LISE Project_15: 1513788712
+      PC Computer - Spelunky 2 - LISE Project_150: 2122994345
+      PC Computer - Spelunky 2 - LISE Project_151: -18533511
+      PC Computer - Spelunky 2 - LISE Project_152: 149089895
+      PC Computer - Spelunky 2 - LISE Project_153: 352021720
+      PC Computer - Spelunky 2 - LISE Project_154: 136132047
+      PC Computer - Spelunky 2 - LISE Project_155: -713197354
+      PC Computer - Spelunky 2 - LISE Project_156: 1912995924
+      PC Computer - Spelunky 2 - LISE Project_157: 60642385
+      PC Computer - Spelunky 2 - LISE Project_158: -1606063875
+      PC Computer - Spelunky 2 - LISE Project_159: 1545279734
+      PC Computer - Spelunky 2 - LISE Project_16: 1941596781
+      PC Computer - Spelunky 2 - LISE Project_160: -626876442
+      PC Computer - Spelunky 2 - LISE Project_161: -1656617535
+      PC Computer - Spelunky 2 - LISE Project_162: -349842543
+      PC Computer - Spelunky 2 - LISE Project_163: -1102500833
+      PC Computer - Spelunky 2 - LISE Project_164: -1557439065
+      PC Computer - Spelunky 2 - LISE Project_165: -2044357769
+      PC Computer - Spelunky 2 - LISE Project_166: -1288008480
+      PC Computer - Spelunky 2 - LISE Project_167: 923481439
+      PC Computer - Spelunky 2 - LISE Project_168: 1196992360
+      PC Computer - Spelunky 2 - LISE Project_169: -120957912
+      PC Computer - Spelunky 2 - LISE Project_17: 1407582758
+      PC Computer - Spelunky 2 - LISE Project_170: -1719952521
+      PC Computer - Spelunky 2 - LISE Project_171: -1482774508
+      PC Computer - Spelunky 2 - LISE Project_172: 1391434937
+      PC Computer - Spelunky 2 - LISE Project_173: -291962170
+      PC Computer - Spelunky 2 - LISE Project_174: -2046251201
+      PC Computer - Spelunky 2 - LISE Project_175: 1014289105
+      PC Computer - Spelunky 2 - LISE Project_176: -1603784941
+      PC Computer - Spelunky 2 - LISE Project_177: -1447445811
+      PC Computer - Spelunky 2 - LISE Project_178: -964996431
+      PC Computer - Spelunky 2 - LISE Project_179: -2087158997
+      PC Computer - Spelunky 2 - LISE Project_18: -622281214
+      PC Computer - Spelunky 2 - LISE Project_180: -729026525
+      PC Computer - Spelunky 2 - LISE Project_181: 1110945692
+      PC Computer - Spelunky 2 - LISE Project_182: -90176889
+      PC Computer - Spelunky 2 - LISE Project_183: -1668185724
+      PC Computer - Spelunky 2 - LISE Project_184: 1397312350
+      PC Computer - Spelunky 2 - LISE Project_185: -1760207689
+      PC Computer - Spelunky 2 - LISE Project_186: -2108452502
+      PC Computer - Spelunky 2 - LISE Project_187: -573178353
+      PC Computer - Spelunky 2 - LISE Project_188: -2121555712
+      PC Computer - Spelunky 2 - LISE Project_189: -1574860187
+      PC Computer - Spelunky 2 - LISE Project_19: -410163049
+      PC Computer - Spelunky 2 - LISE Project_190: 295840048
+      PC Computer - Spelunky 2 - LISE Project_191: -1043082820
+      PC Computer - Spelunky 2 - LISE Project_192: -973778927
+      PC Computer - Spelunky 2 - LISE Project_193: 1127230582
+      PC Computer - Spelunky 2 - LISE Project_194: -435217622
+      PC Computer - Spelunky 2 - LISE Project_195: -294132233
+      PC Computer - Spelunky 2 - LISE Project_196: 412153968
+      PC Computer - Spelunky 2 - LISE Project_197: -440718258
+      PC Computer - Spelunky 2 - LISE Project_198: 1336286319
+      PC Computer - Spelunky 2 - LISE Project_199: 2126340103
+      PC Computer - Spelunky 2 - LISE Project_2: 648887330
+      PC Computer - Spelunky 2 - LISE Project_20: -1837895824
+      PC Computer - Spelunky 2 - LISE Project_21: -932812993
+      PC Computer - Spelunky 2 - LISE Project_22: 288233854
+      PC Computer - Spelunky 2 - LISE Project_23: 426776601
+      PC Computer - Spelunky 2 - LISE Project_24: -1525365200
+      PC Computer - Spelunky 2 - LISE Project_25: 1011912677
+      PC Computer - Spelunky 2 - LISE Project_26: 1284234164
+      PC Computer - Spelunky 2 - LISE Project_27: -2135713568
+      PC Computer - Spelunky 2 - LISE Project_28: -1280727300
+      PC Computer - Spelunky 2 - LISE Project_29: 2083668985
+      PC Computer - Spelunky 2 - LISE Project_3: 1407525303
+      PC Computer - Spelunky 2 - LISE Project_30: 388154717
+      PC Computer - Spelunky 2 - LISE Project_31: 256330921
+      PC Computer - Spelunky 2 - LISE Project_32: 57970610
+      PC Computer - Spelunky 2 - LISE Project_33: -1248721750
+      PC Computer - Spelunky 2 - LISE Project_34: 1488344618
+      PC Computer - Spelunky 2 - LISE Project_35: -1529893758
+      PC Computer - Spelunky 2 - LISE Project_36: -85847052
+      PC Computer - Spelunky 2 - LISE Project_37: -1458670337
+      PC Computer - Spelunky 2 - LISE Project_38: 1589008776
+      PC Computer - Spelunky 2 - LISE Project_39: -911613588
+      PC Computer - Spelunky 2 - LISE Project_4: 774748246
+      PC Computer - Spelunky 2 - LISE Project_40: 968408301
+      PC Computer - Spelunky 2 - LISE Project_41: 1757962562
+      PC Computer - Spelunky 2 - LISE Project_42: 1087356698
+      PC Computer - Spelunky 2 - LISE Project_43: 700931269
+      PC Computer - Spelunky 2 - LISE Project_44: -173553136
+      PC Computer - Spelunky 2 - LISE Project_45: -368747522
+      PC Computer - Spelunky 2 - LISE Project_46: 1972412145
+      PC Computer - Spelunky 2 - LISE Project_47: -1974697472
+      PC Computer - Spelunky 2 - LISE Project_48: -1492085841
+      PC Computer - Spelunky 2 - LISE Project_49: -449601164
+      PC Computer - Spelunky 2 - LISE Project_5: 12461104
+      PC Computer - Spelunky 2 - LISE Project_50: 438210911
+      PC Computer - Spelunky 2 - LISE Project_51: -1922268926
+      PC Computer - Spelunky 2 - LISE Project_52: -719326986
+      PC Computer - Spelunky 2 - LISE Project_53: -637307237
+      PC Computer - Spelunky 2 - LISE Project_54: -1021722125
+      PC Computer - Spelunky 2 - LISE Project_55: 1652067530
+      PC Computer - Spelunky 2 - LISE Project_56: 113343371
+      PC Computer - Spelunky 2 - LISE Project_57: 1530047566
+      PC Computer - Spelunky 2 - LISE Project_58: -433630823
+      PC Computer - Spelunky 2 - LISE Project_59: -21184728
+      PC Computer - Spelunky 2 - LISE Project_6: 552316606
+      PC Computer - Spelunky 2 - LISE Project_60: 374937354
+      PC Computer - Spelunky 2 - LISE Project_61: -730967427
+      PC Computer - Spelunky 2 - LISE Project_62: -1068631054
+      PC Computer - Spelunky 2 - LISE Project_63: -449737581
+      PC Computer - Spelunky 2 - LISE Project_64: 2051924482
+      PC Computer - Spelunky 2 - LISE Project_65: 697097831
+      PC Computer - Spelunky 2 - LISE Project_66: 2083429125
+      PC Computer - Spelunky 2 - LISE Project_67: -2112868161
+      PC Computer - Spelunky 2 - LISE Project_68: -1056691304
+      PC Computer - Spelunky 2 - LISE Project_69: -744905694
+      PC Computer - Spelunky 2 - LISE Project_7: -1451953192
+      PC Computer - Spelunky 2 - LISE Project_70: -695695825
+      PC Computer - Spelunky 2 - LISE Project_71: -692720668
+      PC Computer - Spelunky 2 - LISE Project_72: 1819365531
+      PC Computer - Spelunky 2 - LISE Project_73: 1516236471
+      PC Computer - Spelunky 2 - LISE Project_74: 1396807925
+      PC Computer - Spelunky 2 - LISE Project_75: 817617764
+      PC Computer - Spelunky 2 - LISE Project_76: -1850060994
+      PC Computer - Spelunky 2 - LISE Project_77: -258575722
+      PC Computer - Spelunky 2 - LISE Project_78: 26866696
+      PC Computer - Spelunky 2 - LISE Project_79: 1723567458
+      PC Computer - Spelunky 2 - LISE Project_8: 1762279839
+      PC Computer - Spelunky 2 - LISE Project_80: 1019672429
+      PC Computer - Spelunky 2 - LISE Project_81: 1380933345
+      PC Computer - Spelunky 2 - LISE Project_82: 1246621869
+      PC Computer - Spelunky 2 - LISE Project_83: 1769573298
+      PC Computer - Spelunky 2 - LISE Project_84: 1194532788
+      PC Computer - Spelunky 2 - LISE Project_85: 1988270243
+      PC Computer - Spelunky 2 - LISE Project_86: -1529601800
+      PC Computer - Spelunky 2 - LISE Project_87: 881769486
+      PC Computer - Spelunky 2 - LISE Project_88: -419161919
+      PC Computer - Spelunky 2 - LISE Project_89: 10294022
+      PC Computer - Spelunky 2 - LISE Project_9: -1021184975
+      PC Computer - Spelunky 2 - LISE Project_90: -1150248648
+      PC Computer - Spelunky 2 - LISE Project_91: 1798812
+      PC Computer - Spelunky 2 - LISE Project_92: 1287776062
+      PC Computer - Spelunky 2 - LISE Project_93: -591507795
+      PC Computer - Spelunky 2 - LISE Project_94: -226187426
+      PC Computer - Spelunky 2 - LISE Project_95: 640427508
+      PC Computer - Spelunky 2 - LISE Project_96: 2103557523
+      PC Computer - Spelunky 2 - LISE Project_97: -1125287201
+      PC Computer - Spelunky 2 - LISE Project_98: -1400798449
+      PC Computer - Spelunky 2 - LISE Project_99: -286851838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
